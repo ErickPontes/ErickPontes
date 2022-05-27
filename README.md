@@ -4,7 +4,7 @@
 desenvolvimento de sistema
 - 💞️ I’m looking to collaborate on projetos 
 pra obter experiência 
-- 📫 How to reach me @erickpontes no insta
+- 📫 How to reach me @marcoserickpontes no insta
 
 <!---
 ErickPontes/ErickPontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
